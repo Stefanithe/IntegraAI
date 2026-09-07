@@ -43,6 +43,11 @@ O IntegraAI possui uma interface gráfica que permite:
 5. Alterar campos quando necessário
 6. Clicar em **Converter dados**
 7. Consultar o resultado e os arquivos gerados
+## 🖥️ Captura da interface
+
+Abaixo está a interface gráfica do IntegraAI em funcionamento:
+
+![Interface gráfica do IntegraAI](integraai-interface.png)
 
 ## 📂 Estrutura do projeto
 
