@@ -1,0 +1,7 @@
+{
+  "nome": "string",
+  "documento": "string",
+  "data_nascimento": "date",
+  "telefone": "string",
+  "email": "string"
+}
